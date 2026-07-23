@@ -1,0 +1,1 @@
+import{T as a,e,ac as n}from"./3ptQIBJb.js";function o(o,s){const i=n(),t=e(null),l=s||3e5;a(i,a=>{if("hidden"===a&&(t.value=Date.now()),"visible"===a){Date.now()-(t.value||0)>l&&o()}})}export{o as u};
