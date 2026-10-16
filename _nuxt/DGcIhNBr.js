@@ -1,0 +1,1 @@
+import{fn as i,su as o}from"./CtJ0NHsG.js";var t=o("position",()=>{const o=i({prefix:"position",defaultFixedWidth:300});return{...o,visible:o.visible,positionBoundingRect:o.boundingRect}});export{t};

@@ -1,0 +1,1 @@
+import{wa as r}from"./CtJ0NHsG.js";function t(){if(!arguments.length)return[];var t=arguments[0];return r(t)?t:[t]}export{t};
