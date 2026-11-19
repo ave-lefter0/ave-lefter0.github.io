@@ -1,0 +1,1 @@
+import{Ao as i,co as n}from"./9Xl0TkKq.js";function t(t,a,r){var o=!0,e=!0;if("function"!=typeof t)throw new TypeError("Expected a function");return i(r)&&(o="leading"in r?!!r.leading:o,e="trailing"in r?!!r.trailing:e),n(t,a,{leading:o,maxWait:a,trailing:e})}export{t};
